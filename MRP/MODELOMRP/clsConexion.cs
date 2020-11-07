@@ -9,6 +9,7 @@ namespace MODELOMRP
 {
     public class clsConexion
     {
+
         public OdbcConnection conexion()
         {
             //creacion de la conexion via ODBC
